@@ -1,2 +1,21 @@
 # Airbnb_new_users
-Project Airbnb
+# <div align="center">The Airbnb Classification Project</div>
+
+<img src="/img/logo.jpg" alt="logo"/>
+
+In this kaggle challenge by Airbnb, we are provided with  a list of users along with their demographics, web session records, and some summary statistics. We were asked to predict which country a new user's first booking destination will be. 
+
+There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
+
+
+### We have implemented this project in four Stages.
+1. Data Visulalisation and Anlaysis of the entire dataset
+2. Data preprocessing, which includes using One Hot Encoding to create binary labels for different countries present in the country_destination column.
+Out of these newly created variables we have used USA for our binary classification.
+3. Implemetation of different models, These include: -
+   1) Naive Bayes
+   2) K - Nearest Neighbours (KNN)
+   3) Artificial Neural Network (ANN)
+   4) C50
+   5) Random Forest
+   6) Xgboost (Extreme Gradient Descent) for multi-classifictaion.
