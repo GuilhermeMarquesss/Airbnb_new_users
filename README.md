@@ -2,12 +2,13 @@
 
 <img src="/img/logo.jpg" alt="logo"/>
 
-## Context
+## Contexto
 
-Instead of waking to overlooked "Do not disturb" signs, Airbnb travelers find themselves rising with the birds in a whimsical treehouse, having their morning coffee on the deck of a houseboat, or cooking a shared regional breakfast with their hosts.
+Em vez de acordar com sinais esquecidos de "Não perturbe", os viajantes do Airbnb se veem acordando com os pássaros em uma casa na árvore caprichosa, tomando seu café da manhã no convés de uma casa flutuante ou cozinhando um café da manhã regional compartilhado com seus anfitriões.
 
-New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
+Novos usuários no Airbnb podem reservar um lugar para ficar em mais de 34.000 cidades em mais de 190 países. Ao prever com precisão onde um novo usuário reservará sua primeira experiência de viagem, o Airbnb pode compartilhar conteúdo mais personalizado com sua comunidade, diminuir o tempo médio para a primeira reserva e prever melhor a demanda.
 
-In this recruiting competition, Airbnb challenges you to predict in which country a new user will make his or her first booking.
+Nesta competição de recrutamento, o Airbnb desafia você a prever em qual país um novo usuário fará sua primeira reserva.
 
-https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings
+Aqui você verá toda análise feita sobre esse projeto :
+https://github.com/GuilhermeMarquesss/Airbnb_new_users/blob/main/Notebook.ipynb
